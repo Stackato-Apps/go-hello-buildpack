@@ -1,0 +1,2 @@
+applications:
+- name: go-hello-buildpack
