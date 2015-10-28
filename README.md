@@ -1,7 +1,5 @@
 # Hello World in Go
 
-The simplest Go web app, to be deployed to Stackato using heroku buildpack.
+The simplest Go web app, to be deployed to HPE Helion Stackato.
 
-## More Details
-
-See non-buildpack version: https://github.com/Stackato-Apps/go-hello
+    stackato push -n
